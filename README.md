@@ -7,6 +7,7 @@ this is my repository containing some interesting stuff i liked related to VM an
 
 add this to `pacman.conf`
 
+```
 [kvet]
 Server = https://kharovtobi.github.io/repo/$arch
-
+```
